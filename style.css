@@ -9,7 +9,7 @@ h1 {
     text-align: center;
     color: black;
     padding-top: 40px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     padding: 10PX;
     background-color: aqua;
 
@@ -92,7 +92,25 @@ body {
 }
 
 .caixas {
-    padding: 5px 200px;
     font-size: 40px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
 }
 
+#escudo {
+    width: 350px;
+    height: auto;
+}
+
+#estudando {
+    width: 600px;
+    height: auto;
+}
+
+#oficina {
+    width: 600px;
+    height: auto;
+}
