@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    text-align: center;
+    color: black;
+    padding-top: 40px;
+    border: 2px solid red;
+    padding: 10PX;
+    background-color: aqua;
+
+}
+
+body {
+    background-color: beige;
+}
+
+.titulo {
+    width: 400px;
+    height: 20px;
+    background-color: aqua;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 2px; 
+
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    justify-items: center;
+}
+
+.formacao {
+    width: 400px;
+    height: 200px;
+    background: url('img/Formacao.webp') no-repeat center center;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    font-size: 40px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 10px;
+
+}
+
+.time{
+    width: 400px;
+    height: 200px;
+    background: url('img/time.jpg') no-repeat center center;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    font-size: 40px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 10px;
+}
+.expec{
+    width: 400px;
+    height: 200px;
+    background: url('img/expectativa.jpg') no-repeat center center;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    font-size: 40px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 10px;
+}
+.lazer{
+    width: 400px;
+    height: 200px;
+    background: url('img/lazer.webp') no-repeat center center;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    font-size: 40px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.caixas {
+    padding: 5px 200px;
+    font-size: 40px;
+}
+
