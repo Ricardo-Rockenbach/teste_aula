@@ -74,8 +74,7 @@ body {
     font-size: 40px;
     display: flex;
     align-items: flex-start;
-    justify-content: center;
-    padding-top: 10px;
+    justify-content: center;    
 }
 .lazer{
     width: 400px;
@@ -101,7 +100,7 @@ body {
 }
 
 #escudo {
-    width: 350px;
+    width: 360px;
     height: auto;
 }
 
@@ -113,4 +112,47 @@ body {
 #oficina {
     width: 600px;
     height: auto;
+}
+
+#programacao {
+    width: 420px;
+    height: auto;
+}
+
+#contatos {
+    width: 520px;
+    height: auto;
+}
+
+#mercado {
+    width: 530px;
+    height: auto;
+}
+
+#serie {
+    width: 480px;
+    height: auto;
+}
+
+#sax {
+    width: 300px;
+    height: auto;
+}
+
+#leitura {
+    width: 475px;
+    height: auto;
+    /* padding-bottom: 60px; */
+}
+
+#chimarrao {
+    width: 400px;
+    height: auto;
+    /* padding-bottom: 60px; */
+}
+
+#estadio {
+    width: 500px;
+    height: auto;
+    padding-bottom: 30px;
 }
